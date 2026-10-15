@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ajaz Ali
+# I'm Ajaz Ali 👋,
 
 ### MCA Student | Aspiring Data Engineer | Cloud & Big Data Enthusiast
 
